@@ -1,0 +1,14 @@
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\bin\Debug\net8.0\GestondeLibros.exe
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\bin\Debug\net8.0\GestondeLibros.deps.json
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\bin\Debug\net8.0\GestondeLibros.runtimeconfig.json
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\bin\Debug\net8.0\GestondeLibros.dll
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\bin\Debug\net8.0\GestondeLibros.pdb
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\GestondeLibros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\GestondeLibros.AssemblyInfoInputs.cache
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\GestondeLibros.AssemblyInfo.cs
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\GestondeLibros.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\GestondeLibros.dll
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\refint\GestondeLibros.dll
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\GestondeLibros.pdb
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\GestondeLibros.genruntimeconfig.cache
+C:\Users\Equipo\source\repos\GestondeLibros\GestondeLibros\obj\Debug\net8.0\ref\GestondeLibros.dll
